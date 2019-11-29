@@ -1,0 +1,28 @@
+{
+  "name": "dompooper",
+  "version": "1.0.0",
+  "description": "Tool to generate DOM create javascript statements of an HTML snippet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbredewold/DOMPooper.git"
+  },
+  "keywords": [
+    "DOM",
+    "createElement",
+    "create",
+    "generate"
+  ],
+  "author": "B.R. Bredewold",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/bbredewold/DOMPooper/issues"
+  },
+  "homepage": "https://github.com/bbredewold/DOMPooper#readme",
+  "dependencies": {
+    "node-html-parser": "^1.1.16"
+  }
+}
